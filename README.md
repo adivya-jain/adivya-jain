@@ -10,8 +10,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/https://devpost.com/adivya-jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://devpost.com/adivya-jain" height="30" width="40" /></a>
-<a href="https://twitter.com/adivyaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adivyaj" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/adivya-jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adivya-jain" height="30" width="40" /></a>
+
+  <a href="https://twitter.com/adivyaj" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/002/534/045/original/social-media-twitter-logo-blue-isolated-free-vector.jpg" alt="adivyaj" height="30" width="40" /></a>
+
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/adivya-jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adivya-jain" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
