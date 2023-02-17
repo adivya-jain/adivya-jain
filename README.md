@@ -21,7 +21,7 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
   
   
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVqSv3A8swuvV_g2omm2bynmKJ_xSgfTc4l8SNl7o&s" alt="c" width="40" height="40"/>
   
   
  <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/>
