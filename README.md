@@ -51,8 +51,10 @@
 </p>
   
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width="60" height="60"/>
-  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adivya-jain&show_icons=true&locale=en&layout=compact" alt="adivya-jain" /></p>
+ 
+ 
+ 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adivya-jain&show_icons=true&locale=en&layout=compact" alt="adivya-jain" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adivya-jain&show_icons=true&locale=en" alt="adivya-jain" /></p>
 
