@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adivya-jain&label=Profile%20views&color=0e75b6&style=flat" alt="adivya-jain" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adivya-jain" alt="adivya-jain" /></a> </p>
-
 - 🌱 I’m currently Pursuing **Artificial Intelligence And Data Science**
 
 - 📫 How to reach me **adivyajain2003@gmail.com**
