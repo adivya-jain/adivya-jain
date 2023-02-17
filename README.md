@@ -54,8 +54,8 @@
  
  
  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adivya-jain&show_icons=true&locale=en&layout=compact" alt="adivya-jain" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adivya-jain&show_icons=true&locale=en&layout=compact" width="90%" alt="adivya-jain" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adivya-jain&show_icons=true&locale=en" alt="adivya-jain" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adivya-jain&show_icons=true&locale=en" width="90%" alt="adivya-jain" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adivya-jain&" alt="adivya-jain" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adivya-jain&" width="90%" alt="adivya-jain" /></p>
