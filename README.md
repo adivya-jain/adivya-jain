@@ -13,7 +13,7 @@
 
   <a href="https://twitter.com/adivyaj" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/002/534/045/original/social-media-twitter-logo-blue-isolated-free-vector.jpg" alt="adivyaj" height="30" width="40" /></a>
 
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/adivya-jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adivya-jain" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/adivya-jain" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="https://www.linkedin.com/in/adivya-jain" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -37,9 +37,9 @@
  
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
  
- <img src="https://foundations.projectpythia.org/_images/GitHub-logo.png" alt="git" width="40" height="40"/>
+ <img src="https://qph.cf2.quoracdn.net/main-qimg-729a22aba98d1235fdce4883accaf81e" alt="git" width="40" height="40"/>
  
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html5" width="40" height="40"/> 
   
  <img src="https://w1.pngwing.com/pngs/425/99/png-transparent-java-logo-programming-language-selenium-computer-software-java-class-file-computer-programming-software-developer-software-framework.png" alt="java" width="40" height="40"/>
  
