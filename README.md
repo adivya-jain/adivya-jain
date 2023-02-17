@@ -21,16 +21,16 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
   
   
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVqSv3A8swuvV_g2omm2bynmKJ_xSgfTc4l8SNl7o&s" alt="c" width="40" height="40"/>
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVqSv3A8swuvV_g2omm2bynmKJ_xSgfTc4l8SNl7o&s" alt="cplusplus" width="40" height="40"/>
   
   
  <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/>
 
   
- <img src="ISO_C++_Logo.svg.png" alt="cplusplus" width="40" height="40"/>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="40" height="40"/>
   
  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" alt="css3" width="40" height="40"/>
  
  
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
