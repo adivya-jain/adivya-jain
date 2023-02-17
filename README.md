@@ -20,13 +20,13 @@
 <p align="left">
   
   
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+ <img src="https://e7.pngegg.com/pngimages/391/430/png-clipart-bootstrap-full-logo-tech-companies.png" alt="bootstrap" width="40" height="40"/> 
   
   
  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVqSv3A8swuvV_g2omm2bynmKJ_xSgfTc4l8SNl7o&s" alt="cplusplus" width="40" height="40"/>
   
   
- <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/>
+ <img src="https://static-cse.canva.com/_next/static/assets/logo_w2000xh641_3b021976d60d0277e95febf805ad9fe8c7d6d54f86969ec03b83299084b7cb93.png" alt="canvasjs" width="40" height="40"/>
 
   
  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="40" height="40"/>
