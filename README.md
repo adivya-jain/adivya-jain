@@ -45,7 +45,7 @@
  
  <img src="https://w1.pngwing.com/pngs/136/126/png-transparent-javascript-logo-angularjs-nodejs-computer-programming-web-development-computer-software-jquery-yellow.png" alt="javascript" width="60" height="60"/>
   
- <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="mysql" width="60" height="60"/>
+ <img src="https://www.howtogeek.com/wp-content/uploads/2022/07/MySQL.jpg?height=200p&trim=2,2,2,2&crop=16:9" alt="mysql" width="60" height="60"/>
   
   
  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkKmkBqviJKR3yCj5F251eRodlrKmubG6ey7pJMGGLMs2CF23gBT_4QevLGRVUjcSXSkQ&usqp=CAU" alt="pandas" width="60" height="60"/>
