@@ -11,11 +11,10 @@
 - 📫 How to reach me **adivyajain2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<!-- <a href="https://dev.to/https://devpost.com/adivya-jain" target="blank"><img align="center" src="https://foundations.projectpythia.org/_images/GitHub-logo.png" alt="https://devpost.com/adivya-jain" height="60" width="60" /></a> -->
-<a href="https://twitter.com/adivyaj" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/002/534/045/original/social-media-twitter-logo-blue-isolated-free-vector.jpg" alt="adivyaj" height="60" width="60" /></a>
 
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/adivya-jain" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="https://www.linkedin.com/in/adivya-jain" height="60" width="60" /></a>
+<p align="left">
+<a href="https://twitter.com/adivyaj" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/002/534/045/original/social-media-twitter-logo-blue-isolated-free-vector.jpg" alt="adivyaj" height="60" width="60" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/adivya-jain" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="https://www.linkedin.com/in/adivya-jain" height="60" width="60" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
