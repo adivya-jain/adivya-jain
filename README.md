@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adivya-jain&label=Profile%20views&color=0e75b6&style=flat" alt="adivya-jain" /> </p>
 
 - 🌱 I’m currently **Exploring Web Development And Machine Learning**
-
+- 🌱 Future goal to become Full Stack Developer(●'◡'●).
 - 📫 How to reach me **adivyajain2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
