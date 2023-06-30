@@ -9,7 +9,9 @@
 
 - 🌱 I’m currently **Exploring Web Development And Machine Learning**
 - 🌱 Future goal is to become Full Stack Developer(●'◡'●).
+- 👀 My DSA journey->  
 - 📫 How to reach me **adivyajain2003@gmail.com**
+- 
 
 <h3 align="left">Connect with me:</h3>
 
