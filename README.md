@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently **Exploring Web Development And Machine Learning**
 - 👨‍💻 Future goal is to become Full Stack Developer(●'◡'●).
-- 👀 My DSA journey-> **https://github.com/adivya-jain/DSA_study**
+- 👀 My DSA journey **https://github.com/adivya-jain/DSA_study**
 - 📫 How to reach me **adivyajain2003@gmail.com**
 - 
 
