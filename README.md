@@ -76,4 +76,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adivya-jain&" width="70%" alt="adivya-jain" /></p>
 <br>
 
+
+## Github Profile Trophy
+<br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=adivya-jain)](https://github.com/adivya-jain/github-profile-trophy)
