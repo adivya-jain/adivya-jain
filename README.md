@@ -48,7 +48,8 @@
 
 ## Design
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva]
+![Canva](https://img.shields.io/badge/Canva-8A2BE2?style=for-the-badge&logo=canva&logoColor=white)
+
 
 ## Machine Learning
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
@@ -66,29 +67,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/adivya-jain" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="https://www.linkedin.com/in/adivya-jain" height="60" width="60" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  
-  
- 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html5" width="60" height="60"/> 
- <img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" alt="css3" width="60" height="60"/>
- <img src="https://e7.pngegg.com/pngimages/391/430/png-clipart-bootstrap-full-logo-tech-companies.png" alt="bootstrap" width="60" height="60"/>
- <img src="https://w1.pngwing.com/pngs/136/126/png-transparent-javascript-logo-angularjs-nodejs-computer-programming-web-development-computer-software-jquery-yellow.png" alt="javascript" width="60" height="60"/>
-  
-  
-  
-  <img src="https://static-cse.canva.com/_next/static/assets/logo_w2000xh641_3b021976d60d0277e95febf805ad9fe8c7d6d54f86969ec03b83299084b7cb93.png" alt="canvasjs" width="60" height="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="60" height="60"/> 
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVqSv3A8swuvV_g2omm2bynmKJ_xSgfTc4l8SNl7o&s" alt="cplusplus" width="60" height="60"/>
-  <img src="https://w1.pngwing.com/pngs/425/99/png-transparent-java-logo-programming-language-selenium-computer-software-java-class-file-computer-programming-software-developer-software-framework.png" alt="java" width="60" height="60"/>
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="60" height="60"/>
-<img src="https://qph.cf2.quoracdn.net/main-qimg-729a22aba98d1235fdce4883accaf81e" alt="git" width="60" height="60"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width="60" height="60"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkKmkBqviJKR3yCj5F251eRodlrKmubG6ey7pJMGGLMs2CF23gBT_4QevLGRVUjcSXSkQ&usqp=CAU" alt="pandas" width="60" height="60"/>
-<img src="https://www.howtogeek.com/wp-content/uploads/2022/07/MySQL.jpg?height=200p&trim=2,2,2,2&crop=16:9" alt="mysql" width="60" height="60"/>
-</p>
- 
+ <br>
  
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adivya-jain&show_icons=true&locale=en&layout=compact" width="70%" alt="adivya-jain" /></p>
 
