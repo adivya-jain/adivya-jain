@@ -77,6 +77,7 @@
 <br>
 
 
-## Github Profile Trophy
+## 🏆Github Profile Trophy
 <br>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=adivya-jain)](https://github.com/adivya-jain/github-profile-trophy)
