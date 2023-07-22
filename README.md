@@ -1,4 +1,4 @@
-<h1 align="center">HOLA <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px" height="50px">, I'm Adivya Jain</h1>
+<h1 align="center">HOLA ✌️, I'm Adivya Jain</h1>
 <h3 align="center">A Passionate Frontend Developer From India Pursuing <em> Artificial Intelligence And Data Science</em></h3>
 <!-- <h3 align="center">Currently Pursuing Artifical Intelligence and Data Science,3rd Year</h3> -->
 
