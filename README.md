@@ -18,7 +18,7 @@
 - 🌱 I’m currently **Exploring Web Development And Machine Learning**
 - 👨‍💻 Future goal is to become Full Stack Developer(●'◡'●).
 - 👀 My DSA journey **https://github.com/adivya-jain/DSA_study**
-- 😁 Working on my Portfolio **https://64bfcdb4fbb98c6a3d9caabb--superb-seahorse-d4a1db.netlify.app/**
+- 😁 Working on my Portfolio **https://fastidious-lily-9ef17f.netlify.app/**
 - 📫 How to reach me **adivyajain2003@gmail.com**
  
 
