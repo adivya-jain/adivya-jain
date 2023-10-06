@@ -16,7 +16,7 @@
 <br/>
 
 - 🌱 I’m currently **Exploring Web Development And Machine Learning**
-- 👨‍💻 Future goal is to become Full Stack Developer(●'◡'●).
+- 👨‍💻 MERN Stack Developer(●'◡'●).
 - 👀 My DSA journey **https://github.com/adivya-jain/DSA_study**
   <!-- 😁 Working on my Portfolio **https://jolly-begonia-1c532c.netlify.app** -->
 - 📫 How to reach me **adivyajain2003@gmail.com**
