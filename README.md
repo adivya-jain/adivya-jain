@@ -20,10 +20,9 @@
 - 👀 My DSA journey **https://github.com/adivya-jain/DSA_study**
   <!-- 😁 Working on my Portfolio **https://jolly-begonia-1c532c.netlify.app** -->
 - 📫 How to reach me **adivyajain2003@gmail.com**
- 
 
-<br />
-<br/>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=Adivya_Jain" alt="LeetCode Badges" height="300px" width="300px"/>
+
 <br/>
 
 ## 💻 Polyglot Stack:
