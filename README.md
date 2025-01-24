@@ -1,5 +1,5 @@
 <h1 align="center">HOLA ✌️, I'm Adivya Jain</h1>
-<h3 align="center">A Passionate Frontend Developer From India Pursuing <em> Artificial Intelligence And Data Science</em></h3>
+<h3 align="center">Software Developer pursuing <em> Artificial Intelligence And Data Science</em> from India</h3>
 <!-- <h3 align="center">Currently Pursuing Artifical Intelligence and Data Science,3rd Year</h3> -->
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=adivya-jain&label=Profile%20views&color=0e75b6&style=flat" alt="adivya-jain" /> </p>
@@ -15,9 +15,11 @@
 
 <br/>
 
-- 🌱 I’m currently **Exploring Web Development And Machine Learning**
-- 👨‍💻 MERN Stack Developer(●'◡'●).
+- 🌱 I’m MERN Stack Developer(●'◡'●) currently **Solving Bugs 🐞 and learning🧑‍💻**.
 - 📫 How to reach me **adivyajain2003@gmail.com**
+- 🔗Connect with me <a href="https://twitter.com/adivyaj" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/002/534/045/original/social-media-twitter-logo-blue-isolated-free-vector.jpg" alt="adivyaj" height="40" width="40" /></a> <a href="https://www.linkedin.com/in/adivya-jain" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="https://www.linkedin.com/in/adivya-jain" height="30" width="30" /></a>
+
+
 <!-- - 👀 My DSA journey **https://github.com/adivya-jain/DSA_study**
    😁 Working on my Portfolio **https://jolly-begonia-1c532c.netlify.app** -->
 
@@ -65,16 +67,6 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 <br>
-
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-<a href="https://twitter.com/adivyaj" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/002/534/045/original/social-media-twitter-logo-blue-isolated-free-vector.jpg" alt="adivyaj" height="60" width="60" /></a>
-<a href="https://www.linkedin.com/in/adivya-jain" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="https://www.linkedin.com/in/adivya-jain" height="60" width="60" /></a>
-</p>
-
- <br>
  
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adivya-jain&show_icons=true&locale=en&layout=compact" width="70%" alt="adivya-jain" /></p>
 
